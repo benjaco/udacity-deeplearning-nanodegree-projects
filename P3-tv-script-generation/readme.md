@@ -1,0 +1,1 @@
+Download traning data from https://github.com/udacity/deep-learning/tree/master/tv-script-generation/data to run it locally

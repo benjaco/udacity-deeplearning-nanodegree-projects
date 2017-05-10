@@ -1,0 +1,1 @@
+Download traning data from https://github.com/udacity/deep-learning/tree/master/language-translation/data to run it locally
