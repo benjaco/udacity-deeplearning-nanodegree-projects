@@ -2,6 +2,8 @@
 
 [Udacity nanodegree page](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
+[My deep learning challenges from this course](https://github.com/benjaco/siraj-deeplearning-challenges)
+
 Here is an overview of the different projects
 
 P1: Prediction daily bike ridership in a city based on  2 years of data using a neural net.
