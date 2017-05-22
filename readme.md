@@ -12,4 +12,4 @@ P3: Create new Simpson transcripts based on existing one using an LSTM neural ne
 
 P4: English to France sentence translator using an LSTM neural net.
 
-P5: Comming soon - GAN.
+P5: Generate new faces using a GAN (CelebA dataset)
